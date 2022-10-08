@@ -1,6 +1,6 @@
 Readme.md 
 
-![logo](https://www.digitalsolutionservices.com/img/services/seo-services.gif  )
+![logo](https://raw.githubusercontent.com/earthtoyash/earthtoyash/main/giphy.gif)
 <h1 align="center">Hi 👋, I'm Scott LAng</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://avatars.githubusercontent.com/u/112372825?v=4 ">
