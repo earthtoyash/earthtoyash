@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://giphy.com/embed/l41lS3Qhf9jq83hm0" width="140" height="140"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/earthtoyash">
