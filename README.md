@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Scott Lang</h1>
-<h3 align="center">A enthusiast student...</h3>
+<h3 align="center">A enthusiastic student...</h3>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/earthtoyash/earthtoyash/main/giphy.gif">
 
 
@@ -17,11 +17,14 @@
 
 - 📫 How to reach me **earthtoyash@proton.me**
 
+- 📫 My website (an opensource project) [https://earthtoyash.github.io](https://earthtoyash.github.io)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.twitter.com/in/earthtoyash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@earthtoyash" height="30" width="40" /></a>
 <a href="https://earthtoyash.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@earthtoyash" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/earthtoyash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@earthtoyash" height="30" width="40" /></a>
+<a href="https://www.earthtoyash.github.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/earthtoyash/earthtoyash/main/Prototype-1(Logo).png" alt="@earthtoyash" height="30" width="40" /></a>
 </p>
 
 
