@@ -19,7 +19,7 @@
 
 - 📫 My website (an opensource project) [https://earthtoyash.github.io](https://earthtoyash.github.io)
 
-- 📫 You can also find me on [Linktr.ee](linktr.ee/earthtoyash)
+- 📫 You can also find me on [Linktr.ee](https://linktr.ee/earthtoyash)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
