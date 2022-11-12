@@ -1,7 +1,7 @@
 
 
-<h1 align="center">Hi 👋, I'm Scott Lang</h1>
-<h3 align="center">A enthusiastic student...</h3>
+<h1 align="center">Hi 👋, I'm Yashwant Singh</h1>
+<h3 align="center"> cybersecurity analyst && researcher</h3>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/earthtoyash/earthtoyash/main/giphy.gif">
 
 
