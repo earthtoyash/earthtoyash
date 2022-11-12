@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=earthtoyash&label=Profile%20views&color=0e75b6&style=flat" alt="profilecount" /> </p>
 
-- 🔭 I’m interested in **cybersecurity, red-teaming, web-development**
+- 🔭 I’m interested in **cybersecurity, red-teaming, web-development, [OSINT]([Check it out ️‍🔥](https://github.com/earthtoyash/Hacktoria-Contracts/tree/main/My%20Contract%20Cards))**
 
 - 🌱 I’m currently learning **Web application penetration testing**
 
