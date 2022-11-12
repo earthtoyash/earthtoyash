@@ -19,6 +19,8 @@
 
 - 📫 My website (an opensource project) [https://earthtoyash.github.io](https://earthtoyash.github.io)
 
+- 📫 You can also find me on [Linktr.ee](linktr.ee/earthtoyash)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.twitter.com/in/earthtoyash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@earthtoyash" height="30" width="40" /></a>
