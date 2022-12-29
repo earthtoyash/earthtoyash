@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Cybersecurity**
 
-- 📫 How to reach me **earthtoyash@proton.me**
+- 📫 You can reach me officialy on my email **earthtoyash@proton.me**
 
 - 📫 My website (an opensource project) [https://earthtoyash.github.io](https://earthtoyash.github.io)
 
